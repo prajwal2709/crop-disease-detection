@@ -6,3 +6,4 @@ pillow
 tensorflow
 gunicorn
 google-genai
+python-dotenv
