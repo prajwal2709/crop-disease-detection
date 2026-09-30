@@ -4,3 +4,4 @@ flask-sqlalchemy
 numpy
 pillow
 tensorflow
+gunicorn
